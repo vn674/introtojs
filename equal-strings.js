@@ -9,3 +9,4 @@ function compareStrings(event) {
   } else {
     alert('The strings are not equal.');
   }
+}

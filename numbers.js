@@ -13,3 +13,5 @@ function compareNumbers(event) {
   } else {
     alert('Please enter valid numbers.');
   }
+
+}

@@ -7,10 +7,11 @@ function concatenateStrings(event) {
   var concatenatedString = concatenate(word1, word2);
 
   alert(concatenatedString);
-
+}
 
 function concatenate(word1, word2) {
   // Concatenate the two input strings
-  return word1 + ' ' + word2;
+  return word1 + " " + word2;
 }
+
 
